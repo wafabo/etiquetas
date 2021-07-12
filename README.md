@@ -1,0 +1,2 @@
+# etiquetas
+Clase etiquetas
